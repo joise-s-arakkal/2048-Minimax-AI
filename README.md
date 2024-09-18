@@ -43,8 +43,6 @@ The AI utilizes the Minimax algorithm with Alpha-Beta pruning to decide the best
 - **Monotonicity:** Encouraging gradual increase of tile values.
 - **Weighted Grid:** Focusing on placing larger tiles in favorable positions (such as corners).
 
-## License 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/joise-s-arakkal/2048-Minimax-AI/blob/main/LICENSE) file for details.
