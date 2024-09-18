@@ -32,7 +32,7 @@ CELL_COLORS = {
     1024: (237, 197, 63),
     2048: (237, 194, 46),
 }
-TEXT_COLOR = BLACK #(119, 110, 101)
+TEXT_COLOR = BLACK
 
 # Font
 font = pygame.font.SysFont("Arial", 24, bold=True)
@@ -279,7 +279,7 @@ def main():
             if not is_move_possible(board):
                 game_over = True
 
-        clock.tick(100)
+        clock.tick(10)
 
     pygame.quit()
 
